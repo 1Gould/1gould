@@ -1,16 +1,14 @@
-## Hi there 👋
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1Gould&show_icons=true&theme=github_dark_dimmed" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Gould&layout=compact&show_icons=true&theme=github_dark_dimmed" />
+</a>
 
-<!--
-**1Gould/1gould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I am passionate about malware development and evasion. My projects are mainly proof-of-concepts showing malware and inital access techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal blog will contain Hack The Box and other writeups.
+
+More information: https://1gould.github.io/
