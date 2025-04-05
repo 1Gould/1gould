@@ -7,8 +7,4 @@
 
 ## About
 
-I am passionate about malware development and evasion. My projects are mainly proof-of-concepts showing malware and inital access techniques.
-
-My personal blog will contain Hack The Box and other writeups.
-
-More information: https://1gould.github.io/
+I am passionate about malware development and evasion.
