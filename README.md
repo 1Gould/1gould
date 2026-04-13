@@ -1,3 +1,2 @@
-<a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=1Gould)](https://git.io/streak-stats)
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1Gould)](https://git.io/streak-stats)
+
