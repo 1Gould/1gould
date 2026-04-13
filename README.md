@@ -1,2 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1Gould)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
