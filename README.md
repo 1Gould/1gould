@@ -1,6 +1,3 @@
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1Gould&show_icons=true&theme=github_dark_dimmed" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Gould&layout=compact&show_icons=true&theme=github_dark_dimmed" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=1Gould)](https://git.io/streak-stats)
 </a>
